@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cc481bc-4b7f-4d7a-badb-94a81233db61" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l1dRt8OLncpCWpM3Q2XjaA488K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\simm_data_login\Portfolio\img" />
+      <recent name="D:\simm_data_login\Portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\simm_data_login\Portfolio\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="loading.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/loading.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.loading.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\DRISS\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cc481bc-4b7f-4d7a-badb-94a81233db61" name="Default Changelist" comment="" />
+      <created>1606768526752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606768526752</updated>
+      <workItem from="1606768527862" duration="27277000" />
+      <workItem from="1607012232782" duration="495000" />
+      <workItem from="1607086156359" duration="372000" />
+      <workItem from="1607086791954" duration="3116000" />
+      <workItem from="1607178896875" duration="46742000" />
+      <workItem from="1607638776927" duration="414000" />
+      <workItem from="1607646774144" duration="229000" />
+      <workItem from="1607690375650" duration="211000" />
+      <workItem from="1607708228127" duration="586000" />
+      <workItem from="1607712727798" duration="16618000" />
+      <workItem from="1607778930943" duration="31996000" />
+      <workItem from="1608647726739" duration="14585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="22" key="#Inspections" timestamp="1606769167110">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="266" y="22" key="#Inspections/0.0.1280.690@0.0.1280.690" timestamp="1606769167110" />
+    <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606820973147">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.690@0.0.1280.690" timestamp="1606820973147" />
+    <state x="320" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606943484158">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="320" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.690@0.0.1280.690" timestamp="1606943484158" />
+    <state x="420" y="99" key="FileChooserDialogImpl" timestamp="1608819081751">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="420" y="99" key="FileChooserDialogImpl/0.0.1280.690@0.0.1280.690" timestamp="1608819081751" />
+    <state x="303" y="11" width="672" height="678" key="search.everywhere.popup" timestamp="1606825104298">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="303" y="11" width="672" height="678" key="search.everywhere.popup/0.0.1280.690@0.0.1280.690" timestamp="1606825104298" />
+    <state x="445" y="30" width="455" height="630" key="svn.repositoryBrowser" timestamp="1608819232610">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="445" y="30" width="455" height="630" key="svn.repositoryBrowser/0.0.1280.690@0.0.1280.690" timestamp="1608819232610" />
+  </component>
+</project>
