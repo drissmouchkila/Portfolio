@@ -120,7 +120,7 @@ html
 .home
 {
     display: flex;
-    background: linear-gradient(180deg, #585c60, #000000), url("../img/suit.jpg");
+    background: url("../img/suit.jpg");
     background-blend-mode: screen;
     height: 100vh;
     color: #fff;
