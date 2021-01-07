@@ -1,0 +1,127 @@
+body
+{
+    margin: 0;
+    font-family: Tahoma;
+    background: linear-gradient(135deg, #000000, #1e9df2);
+
+
+}
+h1
+{
+    color: white;
+    font-weight: 700;
+    margin-top: 125px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    line-height: 23px;
+}
+h1 span
+{
+    color: deepskyblue;
+}
+.process-wrapper
+{
+    margin: auto;
+    max-width: 1080px;
+}
+
+#progress-bar-container
+{
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 100px;
+    margin-top: 59px;
+}
+#progress-bar-container ul
+{
+    padding: 0;
+    margin: 0;
+    padding-top: 15px;
+    z-index: 9999;
+    position: absolute;
+    width: 100%;
+    margin-top: -40px;
+}
+#progress-bar-container li:before
+{
+    content: "";
+    display: block;
+    margin: auto;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: solid 2px #aaa;
+    transition: all ease 0.3s;
+}
+#progress-bar-container li.active:before,
+#progress-bar-container li:hover:before{
+    background: deepskyblue;
+}
+#progress-bar-container li{
+    list-style: none;
+    float: left;
+    width: 20%;
+    text-align: center;
+    color: #aaa;
+    text-transform: uppercase;
+    font-size: 11px;
+    cursor: pointer;
+    font-weight: 700;
+    transition: all ease 0.2s;
+    vertical-align: bottom;
+    position: relative;
+}
+#progress-bar-container li .step-inner
+{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    font-size: 14px;
+}
+#progress-bar-container li.active,
+#progress-bar-container li:hover{
+    color: deepskyblue;
+}
+
+#progress-bar-container li:after
+{
+    content: '';
+    display: block;
+    width: 5px;
+    height: 5px;
+    background: #777;
+    margin: auto;
+    border: solid 7px white;
+    border-radius: 50%;
+    margin-top: 40px;
+    box-shadow: 0 2px 13px -1px rgba(0,0,0,0.3);
+    transition: all ease 0.2s;
+}
+
+#progress-bar-container li:hover:after
+{
+    background: deepskyblue;
+}
+#progress-bar-container li.active:after
+{
+    background: deepskyblue;
+}
+#progress-bar-container #line
+{
+    width: 80%;
+    margin: auto;
+    background: #eee;
+    height: 5px;
+    position: absolute;
+    left: 10%;
+    top: 57px;
+    z-index: 1;
+    border-radius: 50px;
+    transition: all ease 0.9s;
+
+}
+
+
+

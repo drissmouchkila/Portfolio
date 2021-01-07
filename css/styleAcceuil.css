@@ -119,21 +119,19 @@ html
 
 .home
 {
-    display: flex;
+    /*display: flex;
     background: url("../img/suit.jpg");
     background-blend-mode: screen;
     height: 100vh;
     color: #fff;
-    min-height: 500px;
+    min-height: 500px;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #000000, #1e9df2);
     font-family: 'Ubuntu', sans-serif;
     z-index: 0;
-}
-.home .wave
-{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-
 }
 
 .home .max-width
@@ -181,22 +179,40 @@ html
     z-index: auto;
 }
 
-.home .home-content .clouds
+.home .home-content .box
 {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 30%;
-    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.home .home-content .clouds img
+.home .home-content .box .eye
 {
-    position: absolute;
-    bottom: 0;
-    max-width: 100%;
-    animation: animate calc(8s * var(--i)) linear infinite ;
+    position: relative;
+    width: 120px;
+    height: 120px;
+    display: block;
+    background: #fff;
+    margin: 0 20px;
+    border-radius: 50%;
+    box-shadow: 0 5px 45px rgba(0,0,0,0.2),
+    inset 0 0 15px #1e9df2,
+    inset 0 0 25px #1e9df2;
 }
+.home .home-content .box .eye::before
+{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 35px;
+    transform: translate(-50%, -50%);
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: #000000;
+    border: 10px solid #ab6625;
+    box-sizing: border-box;
+}
+
 @keyframes animate {
     0%
     {
@@ -252,13 +268,12 @@ section .title::after
 {
     font-family: 'Poppins', sans-serif;
     z-index: 0;
-    background: #b1b5ba;
+    background: linear-gradient(135deg, #000000, #1e9df2);
 }
 
 .about .box-timeline {
     width: 100%;
     height: 1500px;
-    background: #b1b5ba;
     position: relative;
     padding: 80px 0 250px 0;
     margin-bottom: 100px;

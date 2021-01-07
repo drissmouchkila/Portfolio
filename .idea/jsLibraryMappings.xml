@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{ScrollMagic, a076d05399, debug.addIndicators, gsap, jquery-3.5.1, typed.js}" />
+    <file url="PROJECT" libraries="{ScrollMagic, a076d05399, debug.addIndicators, gsap, jquery-3.5.1, smtp, typed.js}" />
   </component>
 </project>
